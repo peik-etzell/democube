@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd87e6f3-19f6-42bf-b8df-a6e6238f11c9" name="Default Changelist" comment="Documentation CubeTest" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="AUTO_SHOW_ERRORS_IN_EDITOR" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hrX5R4NB9sVOWXCbAi7Fp5wmo0" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="adopt-openjdk-11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\peike\o1-assignments\Demo" />
+      <recent name="C:\Users\peike\o1-assignments\Demo\demoVn" />
+      <recent name="C:\Users\peike\o1-assignments\Demo\demo" />
+      <recent name="C:\Users\peike\o1-assignments\RobotTribes\tribes" />
+      <recent name="C:\Users\peike\o1-assignments\RobotTribes\tribes\extra_pics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peike\o1-assignments\Adventure" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Demo" />
+      <recent name="demoVn" />
+      <recent name="demo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="AdventureTextUI" />
+      <command value="AdventureTextUI (1)" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Old_Demo.Demo" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Old_Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.Demo" />
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoV2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Old_Demo.DemoV2" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Old_Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="REPL for Demo" type="ScalaScriptConsoleRunConfiguration" factoryName="Enhanced Scala REPL" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Demo" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$/Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="REPL for Demo" type="ScalaScriptConsoleRunConfiguration" factoryName="Enhanced Scala REPL" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Demo" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$/Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="REPL for Demo" type="ScalaScriptConsoleRunConfiguration" factoryName="Enhanced Scala REPL" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Demo" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$/Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="REPL for Demo" type="ScalaScriptConsoleRunConfiguration" factoryName="Enhanced Scala REPL" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Demo" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$/Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="REPL for O1Library" type="ScalaScriptConsoleRunConfiguration" factoryName="Enhanced Scala REPL" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="O1Library" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="-usejavacp -i .repl-commands" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$/O1Library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.DemoV2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="typeMismatchHints" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd87e6f3-19f6-42bf-b8df-a6e6238f11c9" name="Default Changelist" comment="" />
+      <created>1600770000268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600770000268</updated>
+    </task>
+    <task id="LOCAL-00001" summary="VendingMachine &#10;A15/4.4">
+      <created>1600770914737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600770914737</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Member &#10;A16/4.4">
+      <created>1600771390737</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600771390737</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Member corrected&#10;A16/4.4">
+      <created>1600771475344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600771475344</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4.4 Åbo">
+      <created>1600847455030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600847455030</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4.4 Match">
+      <created>1600848855276</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600848855276</updated>
+    </task>
+    <task id="LOCAL-00006" summary="4.4 Season update">
+      <created>1600851244410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600851244410</updated>
+    </task>
+    <task id="LOCAL-00007" summary="5.1 Blood">
+      <created>1600853242034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600853242034</updated>
+    </task>
+    <task id="LOCAL-00008" summary="5.1 Blood">
+      <created>1600859284565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600859284565</updated>
+    </task>
+    <task id="LOCAL-00009" summary="5.1 FixedPriceSale">
+      <created>1600861457919</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600861457919</updated>
+    </task>
+    <task id="LOCAL-00010" summary="5._">
+      <created>1600949521177</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600949521177</updated>
+    </task>
+    <task id="LOCAL-00011" summary="week 7">
+      <created>1601845661294</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601845661294</updated>
+    </task>
+    <task id="LOCAL-00012" summary="week 7">
+      <created>1601917210802</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601917210802</updated>
+    </task>
+    <task id="LOCAL-00013" summary="week 7">
+      <created>1601996439017</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601996439017</updated>
+    </task>
+    <task id="LOCAL-00014" summary="week 7">
+      <created>1602336596241</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602336596241</updated>
+    </task>
+    <task id="LOCAL-00015" summary="week 8">
+      <created>1602664796401</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602664796401</updated>
+    </task>
+    <task id="LOCAL-00016" summary=".gitignore test">
+      <created>1602664810458</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602664810458</updated>
+    </task>
+    <task id="LOCAL-00017" summary="week 8">
+      <created>1602864649045</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602864649045</updated>
+    </task>
+    <task id="LOCAL-00018" summary="week 9">
+      <created>1603404126475</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1603404126475</updated>
+    </task>
+    <task id="LOCAL-00019" summary="eh">
+      <created>1604647373856</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604647373856</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Weather.scala, added examine window">
+      <created>1604831770102</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1604831770102</updated>
+    </task>
+    <task id="LOCAL-00021" summary="txtgame finished">
+      <created>1605034971000</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605034971000</updated>
+    </task>
+    <task id="LOCAL-00022" summary="changed title, cleaned up root">
+      <created>1605084552745</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605084552745</updated>
+    </task>
+    <task id="LOCAL-00023" summary="football4">
+      <created>1605190188548</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605190188548</updated>
+    </task>
+    <task id="LOCAL-00024" summary="train and tribes mostly">
+      <created>1605351341729</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605351341729</updated>
+    </task>
+    <task id="LOCAL-00025" summary="BEPIS">
+      <created>1605529912014</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605529912014</updated>
+    </task>
+    <task id="LOCAL-00026" summary="tribalbots and OS1 demo">
+      <created>1605691740331</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1605691740331</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Demo Cube">
+      <created>1605789075236</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1605789075236</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Cleaned up Matrix">
+      <created>1605789296677</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1605789296677</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Cleaned up DemoV2">
+      <created>1605789470858</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1605789470858</updated>
+    </task>
+    <task id="LOCAL-00030" summary="All new">
+      <created>1605887404981</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1605887404981</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Moment of inertia">
+      <created>1606045629459</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606045629459</updated>
+    </task>
+    <task id="LOCAL-00032" summary="cleaned up lines">
+      <created>1606137130610</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606137130610</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Documentation, cleaning up">
+      <created>1606137622077</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1606137622077</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Documentation CubeTest">
+      <created>1606148807986</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1606148807986</updated>
+    </task>
+    <task id="LOCAL-00035" summary="CubeTest">
+      <created>1606297248597</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1606297248597</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="4.4 Season update" />
+    <MESSAGE value="5.1 Blood" />
+    <MESSAGE value="5.1 FixedPriceSale" />
+    <MESSAGE value="5._" />
+    <MESSAGE value="week 7" />
+    <MESSAGE value=".gitignore test" />
+    <MESSAGE value="week 8" />
+    <MESSAGE value="week 9" />
+    <MESSAGE value="eh" />
+    <MESSAGE value="Weather.scala, added examine window" />
+    <MESSAGE value="txtgame finished" />
+    <MESSAGE value="changed title, cleaned up root" />
+    <MESSAGE value="football4" />
+    <MESSAGE value="train and tribes mostly" />
+    <MESSAGE value="BEPIS" />
+    <MESSAGE value="tribalbots and OS1 demo" />
+    <MESSAGE value="Demo Cube" />
+    <MESSAGE value="Cleaned up Matrix" />
+    <MESSAGE value="Cleaned up DemoV2" />
+    <MESSAGE value="All new" />
+    <MESSAGE value="Moment of inertia" />
+    <MESSAGE value="cleaned up lines" />
+    <MESSAGE value="Documentation, cleaning up" />
+    <MESSAGE value="Documentation CubeTest" />
+    <MESSAGE value="CubeTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="CubeTest" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="demo.CubeV2" memberName="cornersNow" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
